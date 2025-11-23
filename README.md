@@ -1,6 +1,6 @@
 # cvd_dectection
 
-Cardiovascular disease (CVDs) is the number one cause of death globally, taking an estimated 17.9 million lives each year, which accounts for 31% of all deaths worldwide. Four out of five CVD deaths are due to heart attacks and strokes, and one-third of these deaths occur prematurely in people under 70 years of age. Heart failure is a common event caused by CVDs.
+Cardiovascular disease (CVDs) is the number one cause of death globally, taking an estimated 17.9 million leaves each year, which accounts for 31% of all deaths worldwide. Four out of five CVD deaths are due to heart attacks and strokes, and one-third of these deaths occur prematurely in people under 70 years of age. Heart failure is a common event caused by CVDs.
 This dataset contains 11 features that can be used to predict possible heart disease.
 
 This project aims to assist in the **early diagnosis of heart disease** using a machine learning model trained on real-world health data. In this project we build decision tree model, random forest, and xgboost. The models predicts the likelihood of cardiovascular disease based on patient features such as age, blood pressure, cholesterol, and more .
